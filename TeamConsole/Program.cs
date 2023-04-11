@@ -68,3 +68,20 @@ void GetClasses()
     }
 }
 */
+
+PlayerContext _context = new PlayerContext();
+//travail avec un DB existante 
+
+QueryFilters();
+
+/*void QueryFilters()
+{
+    var player= _context.Player.Where(s=>s.FirstName=="Dylan").ToList(); //s est un input parameter(random)
+}
+*/
+
+void  QueryFilters()
+{
+    var name = "Dylan";
+    var player =_context.Player.Where(s=>s.FirstName == name).ToList();
+}
