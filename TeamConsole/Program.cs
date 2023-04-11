@@ -5,15 +5,18 @@ using PlayerDomain.DataModel;
 using PlayerDomain.classes;
 using Microsoft.EntityFrameworkCore;
 
+/*
 using (PlayerContext context = new PlayerContext())
 {
     context.Database.EnsureCreated();
 }
 
-//GetClasses();
+GetClasses();
 //AddPlayer();
-//GetClasses();
+RemovePlayer();
+GetClasses();
 
+/*
 AddPlayerWithStats();
 void AddPlayerWithStats()
     {
@@ -31,10 +34,13 @@ void GetPlayerWithStats()
     var player = context.Player.Include(x => x.StatsForPlayer).ToList();
     foreach (var StatsType in PlayerStats)
     {
-        Console.WriteLine()
+        
     }
 }
+*/
+
 //creer un nouvel player objet 
+/*
 void AddPlayer()
 {
     var player = new Player { FirstName = "Dylan", LastName = "Richardson", Team = "In-nova" };
@@ -42,7 +48,16 @@ void AddPlayer()
     context.Player.Add(player); //ajoute le nouvel objet au player Dbset
     context.SaveChanges();
 }
+*/
 
+/*
+void RemovePlayer()
+{
+    var player = new Player { FirstName = "Dylan", LastName = "Richardson", Team = "In-nova" };
+    using var context = new PlayerContext();
+    context.Player.Remove(player);
+    context.SaveChanges();
+}
 void GetClasses()
 {
     using var context = new PlayerContext();
@@ -52,3 +67,4 @@ void GetClasses()
         Console.WriteLine(Player.FirstName + " " + Player.LastName + " " + Player.Team);
     }
 }
+*/

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesDomain.classes", "Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerDomain.DataModel", "ClassesDomain.DataModel\PlayerDomain.DataModel.csproj", "{5287C35B-2000-42D4-9590-4E7A8420EEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamConsole", "TeamConsole\TeamConsole.csproj", "{E5A53DF7-F13A-4A73-84F6-EF1C212359A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamAppConsole", "TeamConsole\TeamAppConsole.csproj", "{E5A53DF7-F13A-4A73-84F6-EF1C212359A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

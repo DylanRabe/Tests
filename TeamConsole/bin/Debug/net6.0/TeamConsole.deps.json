@@ -9,6 +9,7 @@
       "TeamConsole/1.0.0": {
         "dependencies": {
           "ClassesDomain.classes": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.4",
           "PlayerDomain.DataModel": "1.0.0"
         },
         "runtime": {

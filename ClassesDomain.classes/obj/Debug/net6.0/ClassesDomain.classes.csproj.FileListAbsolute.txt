@@ -12,3 +12,17 @@ C:\Users\Mr\Documents\Nouveau dossier\repos\ClassesDomain.classes\ClassesDomain.
 C:\Users\Mr\Documents\Nouveau dossier\repos\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.pdb
 C:\Users\Mr\Documents\Nouveau dossier\repos\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.genruntimeconfig.cache
 C:\Users\Mr\Documents\Nouveau dossier\repos\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ref\ClassesDomain.classes.dll
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\bin\Debug\net6.0\ClassesDomain.classes.deps.json
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\bin\Debug\net6.0\ClassesDomain.classes.runtimeconfig.json
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\bin\Debug\net6.0\ClassesDomain.classes.dll
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\bin\Debug\net6.0\ClassesDomain.classes.pdb
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.csproj.AssemblyReference.cache
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.AssemblyInfoInputs.cache
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.AssemblyInfo.cs
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.csproj.CoreCompileInputs.cache
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.dll
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\refint\ClassesDomain.classes.dll
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.pdb
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ClassesDomain.classes.genruntimeconfig.cache
+C:\Users\drabemanantsoa\Documents\Nouveau dossier\repos\Repos EF core\ClassesDomain.classes\ClassesDomain.classes\obj\Debug\net6.0\ref\ClassesDomain.classes.dll
